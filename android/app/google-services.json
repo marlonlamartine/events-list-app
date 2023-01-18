@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528224074766",
+    "project_id": "events-flutter-app-a73f4",
+    "storage_bucket": "events-flutter-app-a73f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528224074766:android:de4a0c9e72bc064145505f",
+        "android_client_info": {
+          "package_name": "br.com.marlonlamartine.party_event"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528224074766-j6qcoc993ar11p4525bvf1m61nv77sqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPDcu9NQVxSchsyyBqbWzdv6J4l2lnBEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528224074766-j6qcoc993ar11p4525bvf1m61nv77sqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
